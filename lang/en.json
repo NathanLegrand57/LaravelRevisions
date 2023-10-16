@@ -70,5 +70,11 @@
     "Whoops!": "Whoops!",
     "You are receiving this email because we received a password reset request for your account.": "You are receiving this email because we received a password reset request for your account.",
     "You're logged in!": "You're logged in!",
-    "Your email address is unverified.": "Your email address is unverified."
+    "Your email address is unverified.": "Your email address is unverified.",
+    "Listes des ventes":"Sales list",
+    "Listes des produits":"Product list",
+    "Listes des marques":"Brand list",
+    "Vous naviguez en":"You're navigating in",
+    "Anglais":"English",
+    "Français":"French"
 }
