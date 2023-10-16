@@ -35,9 +35,9 @@
         @endif
 
         <!-- Page Content -->
-        <a class="btn-success" href="{{ route('vente.index') }}">Liste des ventes</a>
-        <a class="btn-success" href="{{ route('produit.index') }}">Liste des produits</a>
-        <a class="btn-success" href="{{ route('marque.index') }}">Liste des marques</a>
+        <a href="{{ route('vente.index') }}">Liste des ventes</a>
+        <a href="{{ route('produit.index') }}">Liste des produits</a>
+        <a href="{{ route('marque.index') }}">Liste des marques</a>
         @yield('content')
 
     </div>
